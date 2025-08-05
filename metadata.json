@@ -1,0 +1,5 @@
+{
+  "name": "Movie Recommendation Chatbot",
+  "description": "An intelligent chatbot that provides personalized movie recommendations based on your preferences. Describe what you're in the mood for, and get tailored suggestions instantly.",
+  "requestFramePermissions": []
+}
